@@ -104,8 +104,11 @@ The dataset simulates a global wholesale food supplier dealing with multiple cou
 ## 👤 Author
 
 **Krish Makwana**
+
 📍 Ahmedabad,India
+
 💼 Aspiring Data Analyst | SQL | Excel | Business Intelligence
+
 
 * 🔗 LinkedIn: *Add your LinkedIn profile link here*
 * 💻 GitHub: *Add your GitHub profile link here*
