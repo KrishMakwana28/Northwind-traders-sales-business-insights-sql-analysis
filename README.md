@@ -11,6 +11,7 @@ The analysis covers **revenue trends, customer behavior, product performance, lo
 
 ## 🗂️ Dataset Information
 - **Dataset Name:** Northwind Traders
+- https://mavenanalytics.io/data-playground/northwind-traders
 - **Type:** Relational Business Database
 - **Tables Used:**  
   `orders`, `order_details`, `customers`, `products`, `categories`,  
