@@ -14,7 +14,7 @@ The analysis covers **revenue trends, customer behavior, product performance, lo
 - **Type:** Relational Business Database
 - **Tables Used:**  
   `orders`, `order_details`, `customers`, `products`, `categories`,  
-  `employees`, `shippers`, `suppliers`
+  `employees`, `shippers`
 
 The dataset simulates a global wholesale food supplier dealing with multiple countries, products, customers, and shipping partners.
 
@@ -23,7 +23,7 @@ The dataset simulates a global wholesale food supplier dealing with multiple cou
 ## 🛠️ Tools & Technologies
 - **Database:** MySQL  
 - **Language:** SQL  
-- **Visualization:** PowerPoint / Dashboard Image  
+- **Visualization:** PowerPoint Image  
 - **Concepts & Techniques Used:**
   - Joins (INNER, LEFT)
   - GROUP BY & Aggregations
@@ -94,7 +94,8 @@ The dataset simulates a global wholesale food supplier dealing with multiple cou
 ---
 
 ## 📷 Dashboard Preview
-![Northwind Sales Insights Dashboard](./assets/northwind_sales_dashboard.png)
+()
+
 
 ---
 
