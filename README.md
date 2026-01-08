@@ -96,7 +96,8 @@ The dataset simulates a global wholesale food supplier dealing with multiple cou
 
 ## 📷 Dashboard Preview
 
-![Uploading image.png…]()
+![Northwind Sales Insights Dashboard](./assets/northwind_sales_dashboard.png)
+
 
 
 
