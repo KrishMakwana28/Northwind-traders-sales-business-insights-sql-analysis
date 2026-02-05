@@ -113,7 +113,7 @@ The dataset simulates a global wholesale food supplier dealing with multiple cou
 💼 Aspiring Data Analyst | SQL | Excel | Business Intelligence
 
 
-* 🔗 LinkedIn: www.linkedin.com/in/krish-makwana-58ab64374
+* 🔗 LinkedIn: https://www.linkedin.com/posts/krish-makwana-58ab64374_sql-mysql-dataanalytics-activity-7416686722153037824-BeIi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFy4SDoB5RKus0IjrjxH2XoHrWA_8rtyLCY
 * 💻 GitHub: https://github.com/KrishMakwana28
 
 ---
